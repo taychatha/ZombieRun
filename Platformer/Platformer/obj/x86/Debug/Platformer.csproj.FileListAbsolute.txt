@@ -1,0 +1,21 @@
+C:\Users\Administrator\Desktop\CS4730\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CS4730\Platformer\Platformer\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Administrator\Desktop\CS4730\Platformer\Platformer\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Administrator\Desktop\CS4730\Platformer\Platformer\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\Administrator\Desktop\CS4730\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\Administrator\Desktop\CS4730\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\Administrator\Desktop\CS4730\Platformer\Platformer\bin\WindowsGL\Debug\Platformer.exe
+C:\Users\Administrator\Desktop\CS4730\Platformer\Platformer\bin\WindowsGL\Debug\Platformer.pdb
+C:\Users\Administrator\Desktop\CS4730\Platformer\Platformer\bin\WindowsGL\Debug\Content\prep2.png
+C:\Users\Administrator\Desktop\CS4730\Platformer\Platformer\bin\WindowsGL\Debug\SDL.dll
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\bin\WindowsGL\Debug\Content\block.png
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\bin\WindowsGL\Debug\Content\prep2.png
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\bin\WindowsGL\Debug\SDL.dll
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\bin\WindowsGL\Debug\Platformer.exe
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\bin\WindowsGL\Debug\Platformer.pdb
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\tchat_000\Documents\Visual Studio 2013\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
